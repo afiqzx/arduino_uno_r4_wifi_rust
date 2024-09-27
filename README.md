@@ -2,7 +2,8 @@
 
 > A template for building applications for ARM Cortex-M microcontrollers
 
-This project is developed and maintained by the [Cortex-M team][team].
+The original template is developed and maintained by the [Cortex-M team][team].
+I am merely making this easy to be used by Arduino UNO R4 Wifi.
 
 ## Dependencies
 
