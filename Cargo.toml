@@ -2,7 +2,7 @@
 authors = ["Mohammad Afiq <46773936+afiqzx@users.noreply.github.com>"]
 edition = "2018"
 readme = "README.md"
-name = "virtualized-hardware-learning"
+name = "arduino-r4-wifi-template"
 version = "0.1.0"
 
 [dependencies]
@@ -29,7 +29,7 @@ volatile-register = "0.2.2"
 
 # this lets you use `cargo fix`!
 [[bin]]
-name = "virtualized-hardware-learning"
+name = "arduino-r4-wifi-template"
 test = false
 bench = false
 
